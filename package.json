@@ -44,17 +44,17 @@
   "engines": {
     "atom": ">=1.13.0"
   },
-  "homepage": "https://github.com/kevinsawicki/monokai#readme",
+  "homepage": "https://github.com/msgalenwhite/GalenAtomSyntax/blob/master/README.md",
   "license": "MIT",
-  "name": "monokai",
+  "name": "galen",
   "optionalDependencies": {},
   "private": true,
-  "readme": "# Monokai theme\n\nA monokai syntax theme for Atom.\n\nOriginally converted from the [TextMate](http://www.monokai.nl/blog/wp-content/asdev/Monokai.tmTheme)\ntheme using the [TextMate bundle converter](http://flight-manual.atom.io/hacking-atom/sections/converting-from-textmate/).\n\n![](https://f.cloud.github.com/assets/671378/2265671/d02ebee8-9e85-11e3-9b8c-12b2cb7015e3.png)\n",
+  "readme": "A colorful twist on the Monokai theme\n\nConverted from https://github.com/kevinsawicki/monokai.git\n\nOriginally converted from the [TextMate](http://www.monokai.nl/blog/wp-content/asdev/Monokai.tmTheme)\ntheme using the [TextMate bundle converter](http://flight-manual.atom.io/hacking-atom/sections/converting-from-textmate/).\n\n![](https://f.cloud.github.com/assets/671378/2265671/d02ebee8-9e85-11e3-9b8c-12b2cb7015e3.png)\n",
   "readmeFilename": "README.md",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/msgalenwhite/GalenAtomSyntax.git"
   },
   "theme": "syntax",
-  "version": "0.1.0"
+  "version": "0.0.0"
 }
