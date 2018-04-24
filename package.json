@@ -53,7 +53,7 @@
   "readmeFilename": "README.md",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/msgalenwhite/GalenAtomSyntax.git"
+    "url": "https://github.com/msgalenwhite/GalenAtomSyntax.git"
   },
   "theme": "syntax",
   "version": "0.0.0"
