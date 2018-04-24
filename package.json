@@ -5,7 +5,7 @@
         "raw": "/private/var/folders/37/49fwxbzs4nvfbq2cxdnfw_ww0000gn/T/d-1171022-1537-10r878h.bitzz1tt9/package.tgz",
         "scope": null,
         "escapedName": null,
-        "name": null,
+        "name": "Galen Syntax",
         "rawSpec": "/private/var/folders/37/49fwxbzs4nvfbq2cxdnfw_ww0000gn/T/d-1171022-1537-10r878h.bitzz1tt9/package.tgz",
         "spec": "/private/var/folders/37/49fwxbzs4nvfbq2cxdnfw_ww0000gn/T/d-1171022-1537-10r878h.bitzz1tt9/package.tgz",
         "type": "local"
@@ -39,7 +39,7 @@
     "url": "https://github.com/kevinsawicki/monokai/issues"
   },
   "dependencies": {},
-  "description": "A monokai theme",
+  "description": "A colorful twist on the Monokai theme",
   "devDependencies": {},
   "engines": {
     "atom": ">=1.13.0"
@@ -53,8 +53,8 @@
   "readmeFilename": "README.md",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kevinsawicki/monokai.git"
+    "url": "git+https://github.com/msgalenwhite/GalenAtomSyntax.git"
   },
   "theme": "syntax",
-  "version": "0.24.0"
+  "version": "0.0.0"
 }
